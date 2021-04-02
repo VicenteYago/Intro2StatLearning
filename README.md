@@ -1,5 +1,5 @@
 # Intro2StatLearning
-Laboratories and exercises from the [**An Introduction to Statistical Learning Book**](https://www.statlearning.com/)
+Laboratories and exercises from the [**An Introduction to Statistical Learning**](https://www.statlearning.com/) book
 
 The books cover the following topics: 
 
