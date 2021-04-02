@@ -11,3 +11,6 @@ The books cover the following topics:
 * Tree-based Methods
 * Support Vector Machines
 * Unsupervised Learning
+
+
+![cover](https://github.com/VicenteYago/Intro2StatLearning/blob/main/cover.png)
